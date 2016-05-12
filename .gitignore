@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+/ArudmoWeb/ArudmoWeb/App_Data/NuGetBackup
+/ArudmoWeb/ArudmoWeb/App_Data/TEMP
+/ArudmoWeb/ArudmoWeb/bin
+/ArudmoWeb/ArudmoWeb/obj
+/ArudmoWeb/ArudmoWeb/Properties/PublishProfiles
+/ArudmoWeb/packages
+/ArudmoWeb/.vs/config/applicationhost.config
+/ArudmoWeb/ArudmoWeb/App_Data/Logs
